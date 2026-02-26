@@ -1,11 +1,27 @@
-# Ligner h1 overskrift
+# Gjennomgang av struktur på nettsider
 
-## Ligner h2 overskrift
+## Header:
+- Logo
+- Innlogginssystem
+- Navigasjon
+- Sosiale medier (SoMe) 
 
-### Ligner på h3 overskrift
+## Main:
+- På større sider masse lenker videre inn i siden / Navigasjonstree i siden
+- Fokus på tekst eller fokus på visuel bevegelighet (Bilde, video, animasjoner)
+- Bilde blikkfang som beveger seg med siden
+- 'Kort' med mer informasjon
 
-- Liste for noe
+## Footer:
+- Logo
+- Sosiale medier (SoMe)
+- Navigasjon
+- Kreidtasjon
 
-* Liste for noe
+## Notater:
+- Jeg foretrekker SoMe i header
+- Jeg foretrekker en fargerik side med bilder når det ikke er informativ
+- Informasjon/seksjoner skilles med farger enten bakgrunn eller strek
 
-[Link til VG](https://vg.no)
+[VG](https://vg.no)
+- Likte kort oppsettene med bilde og tekst
