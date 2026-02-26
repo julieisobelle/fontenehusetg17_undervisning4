@@ -8,4 +8,4 @@
 
 * Liste for noe
 
-[https://vg.no](Link til VG)
+[Link til VG](https://vg.no)
