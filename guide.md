@@ -23,5 +23,10 @@
 - Jeg foretrekker en fargerik side med bilder når det ikke er informativ
 - Informasjon/seksjoner skilles med farger enten bakgrunn eller strek
 
-[VG](https://vg.no)
-- Likte kort oppsettene med bilde og tekst
+# Sider vi har sett på i undervisningen
+- [Bergen Kommune](https://www.bergen.kommune.no/)
+- [Gloppen Kommune](https://www.gloppen.kommune.no/)
+- [Komplett](https://www.komplett.no/)
+- [Dnd Beyond](https://www.dndbeyond.com/en)
+- [MDN](https://developer.mozilla.org/en-US/)
+- [W3Schools](https://www.w3schools.com/)
